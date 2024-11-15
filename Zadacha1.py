@@ -1,3 +1,3 @@
 cm = int(input('Введите кол-во см: '))
 
-print(int(cm/100))
+print('Это', int(cm/100), 'метров')
